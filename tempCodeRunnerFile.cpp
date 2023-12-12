@@ -1,0 +1,2 @@
+
+                outfile << age << endl;
